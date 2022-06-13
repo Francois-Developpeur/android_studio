@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">La bonne tambouille</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">Livre de recette</string>
+    <string name="home_page_last_recipe_section">Dernière recette</string>
+
+    <!-- Page de collection -->
+    <string name="collection_page_title">Ma collection</string>
+
+    <!-- Page d'ajout de recette -->
+    <string name="add_recipe_page_title">Ajout d\'une recette</string>
+    <string name="add_recipe_page_upload_button">Charger recette</string>
+    <string name="add_recipe_page_name_input">@string/item_recipe_name</string>
+    <string name="add_recipe_page_description_input">@string/item_recipe_description</string>
+    
+    <string-array name="add_recipe_page_grow_spinner_input">
+        <item>basse calorie</item>
+        <item>moyenne calorie</item>
+        <item>haute calorie</item>
+    </string-array>
+
+    <string-array name="add_recipe_page_water_spinner_input">
+        <item>repas mexicain</item>
+        <item>repas asiatique</item>
+        <item>repas français</item>
+    </string-array>
+
+    <string name="add_recipe_page_confirm_button">Confirmer</string>
+    
+    <!-- Fenetre pop-up de details -->
+    <string name="popup_recipe_name">Recipe name</string>
+
+    <string name="popup_recipe_description_title">Description</string>
+    <string name="popup_recipe_description_subtitle">Petite Description</string>
+
+    <string name="popup_recipe_grow_title">Calorie</string>
+    <string name="popup_recipe_grow_subtitle">Basse</string>
+
+    <string name="popup_recipe_water_title">Repas</string>
+    <string name="popup_recipe_water_subtitle">français</string>
+
+    <!-- recette customise -->
+    <string name="item_recipe_name">Nom de la recette</string>
+    <string name="item_recipe_description">Description de la recette</string>
+
+    
+
+
+</resources>
