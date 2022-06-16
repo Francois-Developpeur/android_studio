@@ -28,6 +28,6 @@ class RecipeAdapter : RecyclerView.Adapter<RecipeAdapter.ViewHolder>() {
     }
 
     override fun getItemCount(): Int {
-        return 9
+        return 3;
     }
 }
